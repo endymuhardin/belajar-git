@@ -1,8 +1,19 @@
 # Daftar Perintah Git #
 
+## Perintah Lokal ##
+
 * Membuat repository baru
 ```
 git init
 ```
 
+* Menambahkan dari working ke staging
+```
+git add .
+```
+
+* Menyimpan perubahan ke local repo
+```
+git commit -m "keterangan commit"
+```
 
