@@ -1,3 +1,8 @@
 # Daftar Perintah Git #
 
+* Membuat repository baru
+```
+git init
+```
+
 
