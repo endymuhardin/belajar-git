@@ -17,3 +17,14 @@ git add .
 git commit -m "keterangan commit"
 ```
 
+## Perintah Remote ##
+
+* Mendaftarkan Remote Repository
+```
+git remote add <nama remote> <url remote>
+```
+
+Contoh : 
+```
+git remote add github https://github.com/endymuhardin/belajar-git.git
+```
