@@ -43,3 +43,11 @@ git clone git@github.com:endymuhardin/belajar-git.git
 
 yogi belajar git
 ```
+
+* membuat ssh key gen
+```
+
+contoh :
+```
+$ ssh-keygen
+```
