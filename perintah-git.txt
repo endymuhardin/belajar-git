@@ -51,3 +51,15 @@ contoh :
 ```
 $ ssh-keygen
 ```
+
+* Menambahkan remote repository
+
+```
+git remote add endy git@github.com:endymuhardin/belajar-git.git
+```
+
+* Mengambil perubahan di remote repository
+
+```
+git pull endy/master
+```
