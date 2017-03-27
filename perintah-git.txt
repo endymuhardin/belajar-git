@@ -24,7 +24,19 @@ git commit -m "keterangan commit"
 git remote add <nama remote> <url remote>
 ```
 
-Contoh : 
+Contoh :
 ```
 git remote add github https://github.com/endymuhardin/belajar-git.git
+```
+
+* Mengambil remote repository yang sudah ada
+
+```
+git clone <url remote repository>
+```
+
+Contoh:
+
+```
+git clone git@github.com:endymuhardin/belajar-git.git
 ```
