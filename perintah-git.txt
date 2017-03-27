@@ -52,7 +52,7 @@ contoh :
 $ ssh-keygen
 ```
 
-* Menambahkan remote repository
+* Menambahkan remote repository. Biasanya kita mendaftarkan remote repository utama yang dijadikan patokan. Ini disebut dengan istilah upstream repo.
 
 ```
 git remote add endy git@github.com:endymuhardin/belajar-git.git
